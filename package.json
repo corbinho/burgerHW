@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corbinho/burger.git"
+    "url": "git+https://github.com/corbinho/burgerHW.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/corbinho/burger/issues"
+    "url": "https://github.com/corbinho/burgerHW/issues"
   },
-  "homepage": "https://github.com/corbinho/burger#readme",
+  "homepage": "https://github.com/corbinho/burgerHW#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
